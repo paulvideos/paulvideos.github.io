@@ -374,6 +374,14 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#cidades .section-title-divider {
+  width: 50px;
+  height: 2px;
+  background: #000;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
 #servicos .section-title-divider {
   width: 50px;
   height: 2px;
